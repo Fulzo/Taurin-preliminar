@@ -1,7 +1,8 @@
 # Taurin Lobi Identification – Preliminary Study
 
 ## Project Overview
-This project investigates machine learning approaches for the identification of Lobi taurine cattle using morphological and/or image-based features.
+This project investigates machine learning approaches for the identification of Lobi taurine cattle using morphological features. A preliminary dataset is used to identify trends for future studies.
+This study has been published. Here is the link: https://ieeexplore.ieee.org/abstract/document/9924139 
 
 ## Objectives
 - Data preprocessing
